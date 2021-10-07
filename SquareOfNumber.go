@@ -1,4 +1,4 @@
-//cerner_2tothe5th_2021
+// cerner_2tothe5th_2021
 //Program to find Square of a given number
 package main
  
