@@ -1,4 +1,4 @@
-// cerner_2tothe5th_2021
+//cerner_2tothe5th_2021
 // Java program to generate tiny url from a given integer id
 import java.util.*; 
 import java.lang.*; 
